@@ -8,7 +8,7 @@ namespace Project1
 {
     class Program
     {
-        private static string VersionNo = "0.06";
+        private static string VersionNo = "0.07";
         static void Main(string[] args)
         {
             Console.WriteLine(string.Format("verison: {0}", VersionNo));
